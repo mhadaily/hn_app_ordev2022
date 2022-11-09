@@ -1,6 +1,10 @@
-# hn_app_ordev
+# HN App for Ordev 2022 Conf in Malmo
 
-A new Flutter project.
+Let's Flutter in 40 minutes and build a HackerNews app. This talk helps you to understand how Flutter works and in 40 minutes get on-boarded
+
+- Slides: https://slides.com/mhadaily/lets-flutter-in-40-minutes
+
+![HN APP Flutter](homepage.png?raw=true 'HN APP Flutter')
 
 ## Getting Started
 
